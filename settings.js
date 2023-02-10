@@ -23,7 +23,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.ownernomer = "923252410140" //ur number
-global.premium = ['94719225807'] //ur premium number
+global.premium = ['923252410140'] //ur premium number
 global.botname = '©AMaN-x AMaN Siyal ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/D8qOynDqB2s2lLU5A2V4mP" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
